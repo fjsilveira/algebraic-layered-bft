@@ -1,0 +1,29 @@
+Copyright (c) 2026 Francisco Silveira. All rights reserved.
+
+This software and its source code, including the tests, benchmarks and
+documentation in this repository (the "Software"), are the property of the
+author and accompany the MSc dissertation "An Algebraic Layered Architecture
+for Leader-Based BFT".
+
+The Software is made publicly visible for the sole purpose of allowing it to
+be read and evaluated together with that dissertation. No licence is granted
+by making it visible. Except as expressly permitted in writing by the author,
+no person may copy, reproduce, modify, merge, publish, distribute,
+sublicense, sell, or otherwise use the Software or any part of it, nor create
+derivative works based on it, whether for commercial or non-commercial
+purposes.
+
+Requests for permission should be addressed to the author,
+Francisco Silveira <fj.silveira@campus.fct.unl.pt>.
+
+Quoting short excerpts of the Software for the purposes of review, criticism
+or academic citation, with attribution to the author and the dissertation, is
+not restricted by this notice to the extent such use is permitted by
+applicable law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
