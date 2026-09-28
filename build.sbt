@@ -3,7 +3,7 @@ val scala3Version = "3.8.4"
 lazy val root = project
   .in(file("."))
   .settings(
-    name := "decoupling-bft-consensus",
+    name := "algebraic-layered-bft",
     version := "0.1.0-SNAPSHOT",
     scalaVersion := scala3Version,
     scalacOptions ++= Seq("-deprecation", "-feature", "-Wunused:all"),
